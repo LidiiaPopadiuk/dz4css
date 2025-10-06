@@ -1,0 +1,38 @@
+ul > li {
+  list-style-type: none;
+}
+
+.stat {
+  padding: 10px;
+  width: 500px;
+  margin: 10px auto 0 auto;
+  background-color: antiquewhite;
+}
+
+.stat__name {
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+  font-size: 50px;
+}
+
+.stat__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.stat__item {
+  width: 70px;
+  height: 70px;
+  border: black 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.stats__span:nth-child(2) {
+  font-size: 20px;
+}
