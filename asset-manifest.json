@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz4css/static/css/main.290a1993.css",
+    "main.js": "/dz4css/static/js/main.020e892c.js",
+    "index.html": "/dz4css/index.html",
+    "main.290a1993.css.map": "/dz4css/static/css/main.290a1993.css.map",
+    "main.020e892c.js.map": "/dz4css/static/js/main.020e892c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290a1993.css",
+    "static/js/main.020e892c.js"
+  ]
+}
